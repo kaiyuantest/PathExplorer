@@ -1,0 +1,12 @@
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore packaged output under dist/; publish exe via GitHub Release instead
+dist/
